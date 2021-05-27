@@ -1,0 +1,41 @@
+<DOCTYPE html PUBLIC >
+<html>
+        <head>
+        <style type="text/css">
+        .cinco a {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 28px;
+                text-decoration: none;
+                color: #000;
+                background-image: url(facebook.jpg);
+                background-repeat: no-repeat;
+                background-position: center center;
+                padding:32px;
+                
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 28px;
+                text-decoration: none;
+                color: #000;
+                background-image: url(twitter.jpg);
+                background-repeat: no-repeat;
+                background-position: center center;
+                padding:32px;
+         }
+         .cinco a:hover {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 28px;
+                text-decoration: none;
+                color: #FFF;
+                background-image: url(google plus.jpg);
+                padding:32px;
+         }
+
+         </style>
+         </head>
+
+         <body>
+         <div class="cinco">
+         <a href="https://es-la.facebook.com/"> A </a><a h ref="https://twitter.com/?lang=es"> B </a><a href="https://myaccount.google.com/profile?pli=1"> C </a>
+         </div>
+         </body>
+         </html>
